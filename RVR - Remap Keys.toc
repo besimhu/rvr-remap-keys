@@ -1,0 +1,4 @@
+## Interface: 120005, 120007
+## Title: RVR - Remap Keys
+## OptionalDeps: EllesmereUIActionBars
+core.lua

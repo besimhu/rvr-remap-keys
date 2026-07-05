@@ -1,5 +1,7 @@
 # RVR - Remap Keys
 
+![RVR - Remap Keys logo](_logo.png)
+
 Shortens action bar hotkey labels in World of Warcraft so keybind text is easier to read at a glance.
 
 ## What It Does
